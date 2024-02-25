@@ -1,2 +1,2 @@
-# sharingAndColaborationAPI
-Fornece o compartilhamento e colaboração entre os usuários na plataforma.
+# playlistManagerAPI
+API responsável pela criação, edição, consulta e exclusão de playlist Musical
